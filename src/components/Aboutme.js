@@ -5,7 +5,7 @@ import './Aboutme.css';
 function Aboutme() {
     return (
         <div className='aboutme-container'>
-          <img src='/images/myprofile.jpeg'/>
+          <img src='profile_deploy/images/myprofile.jpeg'/>
           <h1>My Story</h1>
           <p>Born in South Korea, I moved to Singapore at a young age 
              of 10. I went to local Primary School at Yu Neng Primary where I worked really hard

@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/type.mp4' autoPlay loop muted />
+      <video src='profile_deploy//videos/type.mp4' autoPlay loop muted />
       <h1>Park Junhyuk</h1>
       <p>Find out more about me</p>
       <div className='hero-btns'>
